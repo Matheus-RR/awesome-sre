@@ -4,6 +4,7 @@
 
 A curated list of awesome [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) and [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) Engineering resources.
 
+- [ReleaseRun](releaserun.com) — ReleaseRun — tracks software releases, dependency EOL, and version health for SRE teams — free browser-based tools for K8s deprecation checking, dependency audits, and release monitoring
 #### What is Site Reliability Engineering?
 > "Fundamentally, it's what happens when you ask a software engineer to design an operations function." - Ben Treynor Sloss, VP Google Engineering, founder of Google SRE
 
@@ -544,7 +545,6 @@ Contributions are always welcome!
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
-* [ReleaseRun Vulnerability Scanner](https://releaserun.com/tools/vulnerability-scanner/) - Free dependency scanner that checks your stack for known CVEs and end-of-life versions across 300+ products including Kubernetes, Docker, PostgreSQL, and Node.js.
 
 ## Podcasts
 * [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
